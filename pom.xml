@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>compensation-calculator</name>
-  <url>http://maven.apache.org</url>
+  <url>https://github.com/alexandergarbuz/compensation-calculator</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -22,4 +22,10 @@
 	<scope>test</scope>
 </dependency>
   </dependencies>
+  <description>This is a test project for National Conference of Bar Examiners</description>
+  <organization>
+  	<name>GARBUZ.COM</name>
+  	<url>http://garbuz.com</url>
+  </organization>
+  <inceptionYear>2024</inceptionYear>
 </project>
