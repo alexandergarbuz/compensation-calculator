@@ -4,9 +4,9 @@ This is a test project for National Conference of Bar Examiners
 To execute this project run the following:
 ```
 
-** mvn clean package **
+ mvn clean package 
 
-** java -jar target/compensation-calculator.jar **
+ java -jar target/compensation-calculator.jar 
 
 ```
 
