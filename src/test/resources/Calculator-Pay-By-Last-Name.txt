@@ -1,0 +1,13 @@
+Executive, Person 15 (Executive) Hours: 60 Total: $4550.0 Overtime pay: $1500.0 Bonus pay: $50.0
+Executive, Person 25 (Executive) Hours: 60 Total: $4550.0 Overtime pay: $1500.0 Bonus pay: $50.0
+Floor worker, Person 12 (Floor worker) Hours: 40 Total: $800.0 Overtime pay: $0.0 Bonus pay: $0.0
+Floor worker, Person 22 (Floor worker) Hours: 40 Total: $800.0 Overtime pay: $0.0 Bonus pay: $0.0
+Intern, Person 11 (Intern) Hours: 20 Total: $200.0 Overtime pay: $0.0 Bonus pay: $0.0
+Intern, Person 21 (Intern) Hours: 20 Total: $200.0 Overtime pay: $0.0 Bonus pay: $0.0
+Manager, Person 14 (Manager) Hours: 40 Total: $1450.0 Overtime pay: $0.0 Bonus pay: $50.0
+Manager, Person 24 (Manager) Hours: 40 Total: $1450.0 Overtime pay: $0.0 Bonus pay: $50.0
+Supervisor, Person 13 (Supervisor) Hours: 30 Total: $750.0 Overtime pay: $0.0 Bonus pay: $0.0
+Supervisor, Person 23 (Supervisor) Hours: 30 Total: $750.0 Overtime pay: $0.0 Bonus pay: $0.0
+_______________________________
+Total $15500.0
+

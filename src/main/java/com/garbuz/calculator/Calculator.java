@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 
 public class Calculator {
 
+	public static final String LINE_SEPARATOR = System.lineSeparator();
 	public static final double OVERTIME_RATE = 1.5;
 	public static final int OVERTIME_THRESHHOLD = 40;
 	
@@ -54,7 +55,7 @@ public class Calculator {
 		.append(" Total: $").append(total  )
 		.append(" Overtime pay: $").append(overtime) 
 		.append(" Bonus pay: $").append(bonus)
-		.append("\n");
+		.append(LINE_SEPARATOR);
 		
 		return out.toString();
 	}
@@ -86,9 +87,9 @@ public class Calculator {
     			
     			out.append(printEmployeeCompensation(emp,hoursWorked,totalCompensation,overtimePay,bonusRate));
     		}
-    		out.append("_______________________________\n");
-    		out.append("Total By '").append(department.getName()).append("' Deartment: $").append(totalByDepartment).append("\n");
-    		out.append("\n");
+    		out.append("_______________________________").append(LINE_SEPARATOR);
+    		out.append("Total By '").append(department.getName()).append("' Deartment: $").append(totalByDepartment).append(LINE_SEPARATOR);
+    		out.append(LINE_SEPARATOR);
     	}
 		
 		
@@ -119,9 +120,9 @@ public class Calculator {
 			
 			out.append(printEmployeeCompensation(emp,hoursWorked,totalCompensation,overtimePay,bonusRate));
 		}
-		out.append("_______________________________\n");
-		out.append("Total $").append(totalForCompany).append("\n");
-		out.append("\n");    	
+		out.append("_______________________________").append(LINE_SEPARATOR);
+		out.append("Total $").append(totalForCompany).append(LINE_SEPARATOR);
+		out.append(LINE_SEPARATOR);    	
 
 		
 		
