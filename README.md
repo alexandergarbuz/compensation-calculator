@@ -1,10 +1,10 @@
 # Compensation Calculator 
 This is a test project for National Conference of Bar Examiners
 
-To execute this project run the following
+To execute this project run the following:
 
-mvn clean package
-java -jar target/compensation-calculator.jar
+**mvn clean package**
+**java -jar target/compensation-calculator.jar**
 
 
 ## Quick description
